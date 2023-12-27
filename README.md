@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Vijay Kumar</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
