@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS Analytics Services**
 
-- 👨‍💻 All of my projects & Certificates are available at Portfolio [https://vijay-portfolio-webpage.web.app/](https://vijay-portfolio-webpage.web.app/)
+- 👨‍💻 All of my projects & Certificates are available at Portfolio [https://vijay-portfolio-webpage.web.app/](https://vijay-g0jy.onrender.com/)
 
 - 📝 I regularly Post articles on LinkedIn [https://www.linkedin.com/in/vijay-kumar-data-analyst/](https://www.linkedin.com/in/vijay-kumar-data-analyst/)
 
